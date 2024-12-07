@@ -59,3 +59,4 @@ This is a First-Person Shooter (FPS) VR game developed in Unreal Engine 5. The m
 ## Submission Details
 - This game was developed as part of **HW2** in Unreal Engine 5.
 - All required features, including VR-specific mechanics, target destruction, and level transitions, have been implemented and demonstrated.
+- Corey Valentine did everything present within this repository for Homework 2 and 1. 
